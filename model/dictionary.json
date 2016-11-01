@@ -1,7 +1,30 @@
 {
-  "names": [
-    "alexa",
-    "echo",
-    "world"
+  "strategy": [
+    "a strategy",
+    "a different strategy",
+    "an oblique strategy",
+    "a random strategy",
+    "an idea",
+    "a different idea",
+    "an oblique idea",
+    "a random idea",
+    "inspiration",
+    "oblique inspiration",
+    "some inspiration",
+    "some different inspiration",
+    "some oblique inspiration",
+    "some random inspiration",
+    "a thought",
+    "a different thought",
+    "an oblique thought",
+    "a random thought",
+    "a suggestion",
+    "a different suggestion",
+    "an oblique suggestion",
+    "a random suggestion",
+    "an approach",
+    "a different approach",
+    "a random approach",
+    "an oblique approach"
   ]
 }

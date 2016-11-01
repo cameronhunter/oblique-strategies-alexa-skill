@@ -1,3 +1,3 @@
-import Obliquestrategies from './oblique-strategies';
+import ObliqueStrategies from './oblique-strategies';
 
-module.exports = Obliquestrategies;
+module.exports = ObliqueStrategies;
